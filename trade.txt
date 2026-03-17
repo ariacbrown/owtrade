@@ -1,1 +1,23 @@
+${user} is duoed and being boosted by a Bronze Mercy main arieli25Laugh
+${user} is duoed and being boosted by a Silver Genji player arieli25Laugh
+${user} is duoed and being boosted by a Gold Ana player arieli25Laugh
+${user} is duoed and being boosted by a Platinum Kiriko main arieli25Laugh
+${user} is duoed and being boosted by a Diamond Widowmaker player arieli25Laugh
+${user} is duoed and being boosted by a Master Tracer one-trick arieli25Laugh
+${user} is duoed and being boosted by a Grandmaster Reinhardt player arieli25Laugh
+${user} is duoed and being boosted by a Diamond Lucio main arieli25Laugh
+${user} is duoed and being boosted by a Master Ashe player arieli25Laugh
+${user} is duoed and being boosted by a Grandmaster Sigma player arieli25Laugh
+
+${user} is duoed and being boosted by a Champion Baptiste player… unfortunately he's ximming arieli25Laugh
+${user} is duoed and being boosted by a Champion Cassidy main… unfortunately he's ximming arieli25Laugh
+${user} is duoed and being boosted by a Champion Sojourn player… unfortunately he's ximming arieli25Laugh
+${user} is duoed and being boosted by a Champion Widowmaker player… unfortunately he's ximming arieli25Laugh
+${user} is duoed and being boosted by a Champion Genji one-trick… unfortunately he's ximming arieli25Laugh
+
+${user} is duoed and being boosted by a Champion Tracer player… and they are actually a controller player arieli25Laugh
+${user} is duoed and being boosted by a Champion Ashe player… and they are actually a controller player arieli25Laugh
+${user} is duoed and being boosted by a Champion Ana main… and they are actually a controller player arieli25Laugh
+${user} is duoed and being boosted by a Champion Kiriko player… and they are actually a controller player arieli25Laugh
+${user} is duoed and being boosted by a Champion Soldier76 player… and they are actually a controller player arieli25Laugh
 
